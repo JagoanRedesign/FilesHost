@@ -22,6 +22,9 @@
             },
             "require": {
                 "ext-curl": "*",
+                "ext-gd": "*",
+                "ext-mbstring": "*",
+                "ext-gmp": "*",
                 "ext-json": "*",
                 "php": "^7.0"
             },
